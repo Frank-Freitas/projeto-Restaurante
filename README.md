@@ -11,4 +11,4 @@
   - SGBD postgreesql
   - banco de dados relacional;
   - modelo conceitual, lógico e físico.
->>>>>>> ebfaf29a2f77fae9628481ad6f5129189222e16c
+
