@@ -29,12 +29,12 @@ Este é um projeto acadêmico desenvolvido no 2º semestre do curso de Análise 
    - Acesse o PostgreSQL e crie um novo banco de dados com o nome desejado.
 
 2. **Execução dos Scripts SQL:**
-   > - Abra o **pgAdmin 4** e conecte-se ao servidor PostgreSQL.
-   > - Selecione o banco de dados que você criou para este projeto, expandindo-o no painel à esquerda.
-   > - Clique em **Tools (Ferramentas)** e selecione **Query Tool** para abrir a interface de execução de consultas.
-   > - No Query Tool, clique em **File > Open** (ou no ícone de abrir arquivo) e navegue até o diretório onde está localizado o arquivo `.sql` presente no repositório deste projeto.
-   > - Abra o arquivo `.sql` para carregar seu conteúdo na ferramenta.
-   > - Clique no ícone de **Executar** (play) ou pressione `F5` para rodar os scripts SQL e criar as tabelas necessárias no banco de dados.
+    - Abra o **pgAdmin 4** e conecte-se ao servidor PostgreSQL.
+    - Selecione o banco de dados que você criou para este projeto, expandindo-o no painel à esquerda.
+    - Clique em **Tools (Ferramentas)** e selecione **Query Tool** para abrir a interface de execução de consultas.
+    - No Query Tool, clique em **File > Open** (ou no ícone de abrir arquivo) e navegue até o diretório onde está localizado o arquivo `.sql` presente no repositório deste projeto.
+    - Abra o arquivo `.sql` para carregar seu conteúdo na ferramenta.
+    - Clique no ícone de **Executar** (play) ou pressione `F5` para rodar os scripts SQL e criar as tabelas necessárias no banco de dados.
 
 3. **Configuração de Conexão:**
    - Edite o arquivo `src/main/resources/application.properties`.
