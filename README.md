@@ -50,7 +50,7 @@ Este é um projeto acadêmico desenvolvido no 2º semestre do curso de Análise 
      ```
 
 2. **Execução do Projeto:**
-   - Após a compilação bem-sucedida, - Abra a classe principal do projeto "RestApplication
+   - Após a compilação bem-sucedida, Abra a classe principal do projeto "RestApplication.java
    - Execute o start da sua IDE
     
 ## Contato
