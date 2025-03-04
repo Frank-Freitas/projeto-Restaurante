@@ -29,7 +29,7 @@ Este é um projeto acadêmico desenvolvido no 2º semestre do curso de Análise 
    - Acesse o PostgreSQL e crie um novo banco de dados com o nome desejado.
 
 2. **Execução dos Scripts SQL:**
-   - Navegue até o diretório `src/main/resources/sql` do projeto.
+   - dentro do pgAdmin4, va ate o banco de dados, clique em tolls, passe o comando para pegar os scripts do meu arquivo .sql q esta no repositorio desse readme
    - Execute os scripts SQL presentes nesse diretório para criar as tabelas necessárias no banco de dados.
 
 3. **Configuração de Conexão:**
@@ -46,12 +46,9 @@ Este é um projeto acadêmico desenvolvido no 2º semestre do curso de Análise 
      ```
 
 2. **Execução do Projeto:**
-   - Após a compilação bem-sucedida, execute o comando para iniciar a aplicação:
-     ```bash
-     mvn exec:java -Dexec.mainClass="com.(nomedoprojeto).Main"
-     ```
-
-
+   - Após a compilação bem-sucedida, - Abra a classe principal do projeto "RestApplication
+   - Execute o start da sua IDE
+    
 ## Contato
 
 Para mais informações, entre em contato:
